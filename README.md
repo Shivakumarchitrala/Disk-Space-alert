@@ -41,7 +41,7 @@ Trigger_Threshold: 90
 Trigger_TreatMissingData: 
 Trigger_EvaluateLowSampleCountPercentile: 
 Time_DB_Recorded: 5/8/2023 12:17:12 AM
-ResourceID: i-01485e9fbfe70639e
+ResourceID: 
 Alarm_Type: /var-Disk-Pct-Used
 CI: 
 Assignment_Group: INC-HPI-LV3-INFRA-PUBLIC-CLOUD-DXC
@@ -51,10 +51,10 @@ Platform: Linux
 Account_Name: eprid202168-records-advisor-tool-dev
 Application_Name: Records Advisor Tool
 Account_Type: Shared Managed
-App_Owner_Email: oscar.solis.gutierrez@hp.com
-App_Owner_Name: Oscar Ezequiel Solis Gutierrez
+App_Owner_Email: 
+App_Owner_Name: 
 App_Name: Records Advisor Tool
-PrivateIP: 172.20.66.227
+PrivateIP: 
 Environment: DEV
 Resource_Type: EC2
 Status_15_minutes_old: running
