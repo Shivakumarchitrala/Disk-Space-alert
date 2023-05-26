@@ -1,7 +1,5 @@
-# Disk-Space-alert
 # Disk Space alert for /var on linux instances.
-# Alarm for /var file system utilization
-# Threshold Crossed: 2 datapoints greater than or equal to the threshold (90.0).
+# Alarm for /var file system utilization on Threshold Crossed: 2 datapoints greater than or equal to the threshold (90.0).
 
 #Sample ticket created when Threshold is crossed
 Alert Details: 
